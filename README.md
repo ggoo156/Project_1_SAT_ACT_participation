@@ -1,6 +1,6 @@
 # Project 1: SAT & ACT Analysis
 
-### Overview
+## Overview
 
 For this project, we're going to take a look at aggregate SAT and ACT scores and participation rates from each state in the United States. We'll look to identify trends in the data and combine our data analysis with outside research to identify likely factors affecting participation rates and scores in United States.
 
@@ -8,7 +8,7 @@ Here's a specific issues that can help you understand with background informatio
 > The new format for the SAT was released in March 2016. As an employee of the College Board - the organization that administers the SAT - we are a part of a team that tracks statewide participation and recommends where money is best spent to improve SAT participation rates. Our presentation and report are geared toward **non-technical** executives with the College Board and we will use the provided data and outside research to make recommendations about how the College Board might work to increase the participation rate in a **state of our choice**.
 
 
-### Datasets
+## Datasets
 
 #### Provided Data
 
@@ -25,7 +25,7 @@ You can see the source for the SAT data [here](https://blog.collegevine.com/here
 
 Manually collected data of 2018 state-by-state average results and participation for the SAT are from PDF reports [here](https://reports.collegeboard.org/sat-suite-program-results/state-results). 2018 ACT state-by-state mean composite scores and participation rates are [here](http://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf).
 
-#### Work overview
+## Work overview
 This project includes following materials: 
 - basic statistics (distributions, confidence intervals, hypothesis testing)
 - many Python programming concepts
