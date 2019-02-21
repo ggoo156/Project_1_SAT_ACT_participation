@@ -2,14 +2,6 @@
 
 ### Overview
 
-This project includes following materials: 
-- basic statistics (distributions, confidence intervals, hypothesis testing)
-- many Python programming concepts
-- programmatically interacting with files and directories
-- visualizations
-- EDA
-- working with Jupyter notebooks for development and reporting
-
 For this project, we're going to take a look at aggregate SAT and ACT scores and participation rates from each state in the United States. We'll look to identify trends in the data and combine our data analysis with outside research to identify likely factors affecting participation rates and scores in United States.
 
 Here's a specific issues that can help you understand with background information.
@@ -33,3 +25,13 @@ You can see the source for the SAT data [here](https://blog.collegevine.com/here
 #### Additional Data
 
 Manually collected data of 2018 state-by-state average results and participation for the SAT are from PDF reports [here](https://reports.collegeboard.org/sat-suite-program-results/state-results). 2018 ACT state-by-state mean composite scores and participation rates are [here](http://www.act.org/content/dam/act/unsecured/documents/cccr2018/Average-Scores-by-State.pdf).
+
+#### Work overview
+This project includes following materials: 
+- basic statistics (distributions, confidence intervals, hypothesis testing)
+- many Python programming concepts
+- programmatically interacting with files and directories
+- visualizations
+- EDA
+- working with Jupyter notebooks for development and reporting
+
