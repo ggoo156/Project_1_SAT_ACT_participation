@@ -7,7 +7,6 @@ For this project, we're going to take a look at aggregate SAT and ACT scores and
 Here's a specific issues that can help you understand with background information.
 > The new format for the SAT was released in March 2016. As an employee of the College Board - the organization that administers the SAT - we are a part of a team that tracks statewide participation and recommends where money is best spent to improve SAT participation rates. Our presentation and report are geared toward **non-technical** executives with the College Board and we will use the provided data and outside research to make recommendations about how the College Board might work to increase the participation rate in a **state of our choice**.
 
----
 
 ### Datasets
 
