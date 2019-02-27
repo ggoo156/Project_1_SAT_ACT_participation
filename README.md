@@ -14,8 +14,8 @@ Here's a specific issues that can help you understand with background informatio
 
 For this project, we have two provided datasets:
 
-- [2017 SAT Scores](./data/sat_2017.csv)
-- [2017 ACT Scores](./data/act_2017.csv)
+- [2017 SAT Scores](./dataset/sat_2017.csv)
+- [2017 ACT Scores](./dataset/act_2017.csv)
 
 These data give average SAT and ACT scores by state, as well as participation rates, for the graduating class of 2017.
 
