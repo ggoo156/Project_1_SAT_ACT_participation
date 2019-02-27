@@ -34,3 +34,12 @@ This project includes following materials:
 - EDA
 - working with Jupyter notebooks for development and reporting
 
+## Conclusion
+The decrease in scholarship requirement can have an positive effects for 
+1) SAT test participation rate increase 
+2) SAT total  score increase.
+
+## Suggestion
+To increase SAT participation, and SAT score, lowering the scholarship requirement could be the good indirect investment, in addition to the direct investment such as lowering SAT test fee of increase test fee waiver.
+
+
